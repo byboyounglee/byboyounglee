@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Welcome%20to-nl-Boyoung's%20GITHUB&fontSize=70" />
 
 <!--사용 언어 나옴-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byboyounglee&layout=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byboyounglee&layout=compact&theme=dark)
 
