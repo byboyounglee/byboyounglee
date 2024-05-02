@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Welcome%20to-nl-Boyoung's%20GITHUB&fontSize=70" />
 
 
-<p style="margin-left: 20px;">
-  This is a sentence with extra left margin.
-</p>
 
 
 <!--사용 언어 나옴-->
