@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <!--헤더 생성-->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Welcome%20to-nl-Boyoung's%20GITHUB&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=150&section=header&text=Welcome%20to-nl-Boyoung's%20GITHUB&fontSize=70" />
 
 
 
