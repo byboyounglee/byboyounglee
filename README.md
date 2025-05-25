@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--헤더 생성-->
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Welcome%20to&text=Boyoung's%20GITHUB&fontSize=60" />
 
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <br><br><br><br>
 
